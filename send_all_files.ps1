@@ -1,0 +1,1 @@
+scp  *.sh osc@OSC:OSC

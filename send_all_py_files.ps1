@@ -1,0 +1,1 @@
+scp  *.py osc@OSC:OSC
